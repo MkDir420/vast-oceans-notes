@@ -132,21 +132,53 @@ A ring that makes you appear to be dead. When you aren't. Probably extends your 
 Sets of gear acquired in the Hall of Champions in the Womb of the Gods.
 
 ### Goodra
-
+Armor: Plate (18)
+    Grants immunity to acid and poison
+    1/day Misty Step
+    not made of metal (boon to Druids)  
+Weapon: Mace 1d6+STR+2d4 acid
+    Additional 1d8 healing on cast healing spells
 
 ### Garchomp
 
 
 ### Tyranitar
+Armor: +3 Plate (21)
+    Adamantine
+Shield
+    May use CON in the place of DEX when saving for spells that require a DEX save
+Weapon: Vicious Falchion 2d6+8+STR
 
 
 ### Volcarona
+Armor: +2 Half-Plate (17)
+    Volcarona Effect
+Mask: 
+    Blindsight 30ft
+    Volcarona Effect
+Circle of the Sun
+    Fire Spells deal an additional 1d6
+    Volcarona Effect
+  **##Volcarona Effect**
+      Each piece worn grants a cumulitive bonus
+      1 piece grants fire resistance
+      2 pieces grant fire immunity
+      3 pieces grant fire absorbtion 
+
 
 
 ### Metagross
 
 
 ### Dragapult
+Hat!
+  Magic Missiles deal 2d4+1
+  Eldritch Blast deals an additional 1d10
+Armor: +2 Hide (14)
+  No limit on DEX modifiers
+Cape: 5 charges
+  2 charges cast mirror image
+  Gains 1d4 charges at the start of each day
 
 
 ### Kommo-o
